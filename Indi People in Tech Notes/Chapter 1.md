@@ -1,4 +1,4 @@
-**Learning Objectives**
+## **Learning Objectives**
 
 Upon completion of this unit of study, you should be able to address the following:
 
@@ -11,9 +11,9 @@ Upon completion of this unit of study, you should be able to address the followi
 - Describe _technological determinism_ as a theoretical perspective re: technology and society.
 - Describe _social constructivism_ as a theoretical perspective re: technological change.
 
-**Chapter Synopsis**
+## **Chapter Synopsis**
 
-**Defining Technology**
+### **Defining Technology**
 
 - _technology_ is a relatively new term, first published in the 1820’s by Jacob Bigelow (Harvard University)
 - the word _technology_ can be traced back to the Greek language, where it can be broken down into 2 parts:
@@ -28,7 +28,7 @@ Upon completion of this unit of study, you should be able to address the followi
 
 - technologies have made the survival of the human race possible
 
-**Technology:** _A system based on the application of knowledge, manifested in physical objects and organization forms, for the attainment of specific goals_
+### **Technology:** _A system based on the application of knowledge, manifested in physical objects and organization forms, for the attainment of specific goals_
 
 - Technology is a _system_ comprised of the following elements:
 
@@ -45,7 +45,7 @@ Upon completion of this unit of study, you should be able to address the followi
 - new technologies often create new needs and new problems
 - goals achieved through technology are not always practical ones satisfying pressing human needs; e.g., new technologies often developed as status symbols, or frivolous entertainment    
 
-**Technological Advance and the Image of Progress**
+### **Technological Advance and the Image of Progress**
 
 - the development of technology is an inherently _dynamic and cumulative process_
 
@@ -59,12 +59,12 @@ Upon completion of this unit of study, you should be able to address the followi
 
 - the notion of _progress_ is complex and can only be understood in the context of a given set of cultural beliefs and values
 
-**Technology as a Metaphor**
+### **Technology as a Metaphor**
 
 - _technology_ has been employed as a metaphor; e.g., technology as social progress
 - technology has shaped the way we think about ourselves and our world; e.g., the technological principle of _feedback_ (e.g., James Watt’s _flyball governor_ designed to automatically regulate the speed of a steam engine) has been incorporated into other areas of social life; e.g., the stock market; policy analysis, etc.
 
-**Technology and Rationality**  
+### **Technology and Rationality**  
 
 - a _technologically progressive society_ has come to mean one in which problems can be managed in a rational way… can be studied systematically and where solutions to problems can always be found
 - however, rational modes of thought do not necessarily confer moral superiority
@@ -73,18 +73,18 @@ Upon completion of this unit of study, you should be able to address the followi
 
 - rationality requires objectivity
 
-**Technological Determinism**
+### **Technological Determinism**
 
 - a theoretical perspective re: social change which assigns priority to technological factors
 - promotes the idea that technological development is out-of-control… technology has a ‘life of its own’
 - there is no doubt that technology does impact on individuals and society, but the direction and pace of technological development is influenced by many social, economic, political (etc.) factors
 - _Social Constructivism_ is the theoretical perspective re: social change which assigns priority to socio-cultural factors and human agency
 
-**Living in a Technological Society**
+### **Living in a Technological Society**
 
 - modern technology is accessible in some form to the entire population yet, by its very nature, few people actually understand it; our lack of understanding can render us somewhat powerless over our technologies and feeling somewhat alienated. Can you think of examples of technologically-induced alienation in your own life?
 
-**Review Questions**  _Remember: Review Questions are used when setting examination questions_
+## **Review Questions**  _Remember: Review Questions are used when setting examination questions_
 
 1. Define _technology_ (identify its principal components). What are some of the limitations of this definition? 
 
@@ -111,3 +111,12 @@ Upon completion of this unit of study, you should be able to address the followi
 12. What is meant by _rationality_? How is it connected to the development of technology? How does it relate to the way Max Weber used the word “disenchantment”? 
 
 13. What is meant by _technological determinism_? What is meant by _social constructivism_? Why is neither fully adequate to the task of describing the nature of technology?
+
+## Chapter Notes
+
+### Nature of Technolegy
+- Recent technological developments have presented us with such marvels as spacecraft leaving the solar system, instant access to billions of Internet Web pages, and diseases cured through gene therapy
+- At the same time, however, the seemingly inexorable march of technology has produced global pollution, overpopulation, and the threat of nuclear annihilation. On many occasions technological change has also produced social disruptions, as when automation destroys jobs in a particular industry or a new weapon upsets the balance of power between nations
+- when technologies fail, some of them do so in a big way, as exemplified by the loss of the Challenger and Columbia space shuttles, the massive oil spill in the Gulf of Mexico, the catastrophic failure of the Fukushima nuclear plant in Japan, and the disastrous breaching of the levees in New Orleans in the wake of Hurricane Katrina
+- But this support of technology is based more on faith than on understanding. When confronting technology, most of us are poorly informed spectators, seemingly incapable of understanding an esoteric realm of lasers, microprocessors, gene splicing, and nanomaterials.
+### Defining Technolegy

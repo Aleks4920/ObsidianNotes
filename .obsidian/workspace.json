@@ -13,13 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indi People in Tech/Chapter 1.md",
+                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4b7305783dfd7ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indi People in Tech Notes/Chapter 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7d9d405d9dadcb2c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230914232537.png"
+              }
+            }
+          },
+          {
+            "id": "c7398f890a24c945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indi People in Tech Notes/Chapter 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd5adb27d67b7ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef65afb10bac292b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indi People in Tech/Chapter 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indi People in Tech/Chapter 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indi People in Tech/Chapter 1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,12 +213,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5868b45d49668c30",
+  "active": "ef65afb10bac292b",
   "lastOpenFiles": [
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
+    "conflict-files-obsidian-git.md",
+    "The_Nature_of_Technology_-Volti_ch._1.md",
+    "Indi People in Tech Notes/Chapter 1.md",
+    "Images/Pasted image 20230914232537.png",
+    "Images/Pasted image 20230914220447.png",
+    "Images",
+    "Sustainable Communities Notes/Lecture 2.md",
+    "Sustainable Communities Notes/Lecture 1.md",
+    "Indi People in Tech Notes",
     "Sustainable Communities Notes/Class 1.md",
-    "Indi People in Tech/Chapter 1.md",
     "Indi People in Tech/Example.md",
-    "Indi People in Tech/The_Nature_of_Technology_-Volti_ch._1.md",
     "Sustainable Communities Notes",
     "Indi People in Tech",
     "README.md"
