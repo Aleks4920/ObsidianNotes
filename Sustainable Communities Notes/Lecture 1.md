@@ -1,3 +1,7 @@
+---
+share: "True"
+---
+
 ### Topics:
 	- Sociecologal crises that underlie the cotect of sus communities
 	- terms:
@@ -28,3 +32,18 @@
 
 
 
+
+
+
+
+### Ecological Footprint
+- includes all the land and resources one needs to live their life
+- **Carbon Footprint** includes all the trees needed to replace the carbon you use in your life
+
+#### Sustainable Development
+- development that meets the needs of the present without compromising the ability of future generations to meet their own needs
+
+	#### 3 components of sustainable development
+	- Social
+	- Economic
+	- Environmental
