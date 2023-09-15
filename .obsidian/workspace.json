@@ -15,7 +15,7 @@
               "state": {
                 "file": "Indi People in Tech Notes/Chapter 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Indi People in Tech Notes/Chapter 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -35,9 +35,11 @@
             "id": "c7398f890a24c945",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230914232537.png"
+                "file": "Indi People in Tech Notes/Chapter 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230914232537.png",
+                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230914232537.png",
+                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230914232537.png"
+                "file": "Indi People in Tech Notes/Chapter 1.md"
               }
             }
           },
@@ -177,18 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb1b70a5aa241af2",
+  "active": "c7398f890a24c945",
   "lastOpenFiles": [
+    "Images/Pasted image 20230914232537.png",
     "Images",
     "conflict-files-obsidian-git.md",
     "New Text Document.txt",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
-    "Images/Pasted image 20230914232537.png",
     "Images/Pasted image 20230914220447.png",
     "Indi People in Tech Notes/Chapter 1.md",
     "Images/Pasted image 20230914220447.png",
     "The_Nature_of_Technology_-Volti_ch._1.md",
-    "Images/Pasted image 20230914232537.png",
     "Images",
     "Sustainable Communities Notes/Lecture 2.md",
     "Sustainable Communities Notes/Lecture 1.md",

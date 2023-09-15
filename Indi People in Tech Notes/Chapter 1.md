@@ -114,9 +114,17 @@ Upon completion of this unit of study, you should be able to address the followi
 
 ## Chapter Notes
 
-### Nature of Technolegy
+### Nature of Technology
 - Recent technological developments have presented us with such marvels as spacecraft leaving the solar system, instant access to billions of Internet Web pages, and diseases cured through gene therapy
 - At the same time, however, the seemingly inexorable march of technology has produced global pollution, overpopulation, and the threat of nuclear annihilation. On many occasions technological change has also produced social disruptions, as when automation destroys jobs in a particular industry or a new weapon upsets the balance of power between nations
 - when technologies fail, some of them do so in a big way, as exemplified by the loss of the Challenger and Columbia space shuttles, the massive oil spill in the Gulf of Mexico, the catastrophic failure of the Fukushima nuclear plant in Japan, and the disastrous breaching of the levees in New Orleans in the wake of Hurricane Katrina
 - But this support of technology is based more on faith than on understanding. When confronting technology, most of us are poorly informed spectators, seemingly incapable of understanding an esoteric realm of lasers, microprocessors, gene splicing, and nanomaterials.
-### Defining Technolegy
+### Defining Technology
+
+- Technologies are developed and applied so that we can do things not otherwise possible, or so that we can do them cheaper, faster, and more easily. The capacity of human beings to employ technologies sets us apart from other creatures.
+- Reliance on technology is as old as humanity itself. Whatever evils have accompanied the use of particular technologies, it is pointless to indict technology as being somehow “unnatural.”
+- Our past as well as our future as a species is inextricably linked to our capacity to shape our existence through the invention and application of implements and techniques that allow us to transcend our meager physical endowments.
+- It is necessary to add some elements to our definition of technology that go beyond the usual identification of technology with pieces of hardware and ways of manipulating them
+	- The first of these is organization. This follows from the fact that the development, production, and employment of particular technologies require a group effort.
+		- For a technology to be developed and used, the energies and skills of many individuals have to be combined and coordinated through some organizational structure
+	- When technology is seen as a combination of devices, skills, and organizational structures, it becomes natural to think of it as a system, the next element in our definition.
