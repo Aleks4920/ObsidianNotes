@@ -95,7 +95,7 @@ Upon completion of this unit of study, you should be able to address the followi
 4. Why is _social_ _organization_ considered to be an essential component of technology? Give an example of a _complementary relationship_ between social organization and technology. 
 
 5. How does the history of high-speed aircraft illustrate the process by which new technologies emerge? 
-
+	- This process is exemplified by the development of the modern airplane. Early biplanes with their drag-inducing wires and struts could not make effective use of more powerful engines. The availability of these engines became a strong inducement to the design of aerodynamically cleaner aircraft. The faster aircraft that resulted from the marriage of streamlined airframes and powerful engines produced a new problem: dangerously high landing speeds. This, in turn, stimulated the invention of wing flaps and slots. By the 1940s it had become apparent that improved airframes could achieve still higher speeds if provided with more powerful engines; this possibility gave a strong stimulus to the development of the turbojet.
 6. For the incandescent light bulb to be a commercial success there had to be a complementary structure in place to support it. What were the key elements of the system that Thomas Edison created? 
 
 7. How does the history of the pen exemplify some key aspects of technological change? Explain the transition from the _organic_ to the _industrial_ and how it represents overall technological change. 
@@ -103,9 +103,9 @@ Upon completion of this unit of study, you should be able to address the followi
 8. What is a _sigmoid curve_? How is the curve relevant to the course of technological change? 
 
 9. Give an example of a technology that seems to embody progress. According to what standards may it be deemed progressive? 
-
+	Rockets
 10. Give an example of a technology where its contribution to overall progress is ambiguous at best. 
-
+	Does maintaining a “life” of this sort justify expenditures that otherwise might be used for expanded prenatal care or other preventative measures? Given all of the value judgments, ambiguities, and complexities surrounding the word “progress,” its use is avoided here unless its meaning is clearly defined.
 11. What, in a technical sense, is meant by “feedback”? Note a particular technology that makes use of the feedback principle. Give an example of how “feedback” has entered the social realm. 
 
 12. What is meant by _rationality_? How is it connected to the development of technology? How does it relate to the way Max Weber used the word “disenchantment”? 
@@ -121,6 +121,9 @@ Upon completion of this unit of study, you should be able to address the followi
 - But this support of technology is based more on faith than on understanding. When confronting technology, most of us are poorly informed spectators, seemingly incapable of understanding an esoteric realm of lasers, microprocessors, gene splicing, and nanomaterials.
 ### Defining Technology
 
+- The linguistic roots of the word “technology” can be traced to the IndoEuropean stem tekhn-, which seems to have referred to woodworking. It is the source of the Greek word tekne, which can be variously translated as “art,” “craft,” or “skill.” It is also the root of the Latin word texere, “to weave,” which eventually took on the larger meaning of fabrication or construction.
+- By the early eighteenth century the word had come close to its present meaning when an English dictionary defined it as “a Description of Arts, especially the Mechanical.” In 1831 Jacob
+- As he defined it, technology consisted of “the principles, processes, and nomenclatures of the more conspicuous arts, particularly those which involve applications of science.”
 - Technologies are developed and applied so that we can do things not otherwise possible, or so that we can do them cheaper, faster, and more easily. The capacity of human beings to employ technologies sets us apart from other creatures.
 - Reliance on technology is as old as humanity itself. Whatever evils have accompanied the use of particular technologies, it is pointless to indict technology as being somehow “unnatural.”
 - Our past as well as our future as a species is inextricably linked to our capacity to shape our existence through the invention and application of implements and techniques that allow us to transcend our meager physical endowments.
@@ -134,4 +137,11 @@ Upon completion of this unit of study, you should be able to address the followi
 - Much of what has just been said can be incorporated into a schematic definition of technology: a system created by humans that uses knowledge and organization to produce objects and techniques for the attainment of specific goals
 	- Much of what has just been said can be incorporated into a schematic definition of technology: a system created by humans that uses knowledge and organization to produce objects and techniques for the attainment of specific goals
 	- a new technology may in fact create its own needs
+- Two hundred years ago, the standard writing instrument was a goose-quill pen. Based on an organic product and sharpened by the user, it represented the handicraft technologies typical of its time. Cheap and crude, it called for a fair degree of skill if it was to be used effectively. In contrast, the steel-nib pen of the nineteenth century was a typical artifact of the industrial age, the product of a complex manufacturing process. Less adaptable than the quill, it was mass-produced in many different forms in order to meet specialized needs. Although Mumford’s ideas were formulated before the invention of the ballpoint pen in the 1940s, his analysis fits this implement perfectly. Made from a variety of artificial materials and manufactured to close tolerances, the ballpoint pen could only be produced through sophisticated industrial processes. It is completely divorced from the organic world and requires very little skill from its user. Indeed, the technological artistry embodied in the pen itself stands in sharp contrast to the poor quality of the writing that so often comes from the hand that wields it.
 ### Technological Advance and the Image of Progress
+- The development of technology is an inherently dynamic and cumulative process. It is dynamic because a technology is never perfect; there is always room for improvement.
+- Note that at first the curve rises rather slowly, inclines steeply in the middle, and then begins to slow down. That is, after an initial period of slow growth, the rate of advance accelerates, reaches a maximum, and then begins to proceed at a slower pace but never completely levels off. Although the rate of increase is smaller as the curve moves toward the right, this rate is applied to an increasingly larger base, so the actual addition is still substantial.
+	- ![[Pasted image 20230915140230.png]]
+- The dynamic and cumulative nature of technological change sets it apart from many other human endeavors. Ignoring for the moment the social consequences of technology, the process of technological change is usually one of continuous improvement in the internal workings of a particular technology: as they evolve, engines develop more power and are more efficient, integrated electronic circuits pack more components on a single chip, aircraft fly higher and faster.
+- Does maintaining a “life” of this sort justify expenditures that otherwise might be used for expanded prenatal care or other preventative measures? Given all of the value judgments, ambiguities, and complexities surrounding the word “progress,” its use is avoided here unless its meaning is clearly defined.
+### Technology as a Metaphor 
