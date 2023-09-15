@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_Nature_of_Technology_-Volti_ch._1.md",
+                "file": "Indi People in Tech/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The_Nature_of_Technology_-Volti_ch._1.md",
+                "file": "Indi People in Tech/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The_Nature_of_Technology_-Volti_ch._1.md",
+                "file": "Indi People in Tech/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The_Nature_of_Technology_-Volti_ch._1.md"
+                "file": "Indi People in Tech/Untitled.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613cf3df62b686a3",
+  "active": "dfae18de04e8c2f9",
   "lastOpenFiles": [
-    "sus/Class 1.md"
+    "The_Nature_of_Technology_-Volti_ch._1.md",
+    "Indi People in Tech/Untitled.md",
+    "sus/Untitled",
+    "Sustainable Communities Notes/Class 1.md"
   ]
 }
