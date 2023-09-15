@@ -1,6 +1,3 @@
----
-share: "True"
----
 
 ### Topics:
 	- Sociecologal crises that underlie the cotect of sus communities
