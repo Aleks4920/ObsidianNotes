@@ -128,13 +128,21 @@
                 "file": "Sustainable Communities Notes/Lecture 1.md"
               }
             }
+          },
+          {
+            "id": "6306435fa6876fad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

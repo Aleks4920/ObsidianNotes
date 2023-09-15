@@ -47,3 +47,10 @@ share: "True"
 	- Social
 	- Economic
 	- Environmental
+	#### Forms of Capital
+	- Natural
+	- Physical
+	- Economic
+	- Human
+	- Social
+	- Cultural
