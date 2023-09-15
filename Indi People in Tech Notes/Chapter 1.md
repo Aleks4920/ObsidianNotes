@@ -125,6 +125,13 @@ Upon completion of this unit of study, you should be able to address the followi
 - Reliance on technology is as old as humanity itself. Whatever evils have accompanied the use of particular technologies, it is pointless to indict technology as being somehow “unnatural.”
 - Our past as well as our future as a species is inextricably linked to our capacity to shape our existence through the invention and application of implements and techniques that allow us to transcend our meager physical endowments.
 - It is necessary to add some elements to our definition of technology that go beyond the usual identification of technology with pieces of hardware and ways of manipulating them
-	- The first of these is organization. This follows from the fact that the development, production, and employment of particular technologies require a group effort.
+	- 1. The first of these is organization. This follows from the fact that the development, production, and employment of particular technologies require a group effort.
 		- For a technology to be developed and used, the energies and skills of many individuals have to be combined and coordinated through some organizational structure
-	- When technology is seen as a combination of devices, skills, and organizational structures, it becomes natural to think of it as a system, the next element in our definition.
+	- 2. When technology is seen as a combination of devices, skills, and organizational structures, it becomes natural to think of it as a system, the next element in our definition.
+		- But by itself, a light bulb was useless. An effective electrical generator was needed to supply the current that produced the incandescence of the filament. A network of electrical lines had to be strung up between the generator and individual homes, shops, and factories. And metering devices were necessary so that users could be accurately billed for the electricity they used. Edison and his associates worked out all of these problems, and in so doing brought large-scale electrical illumination to the world.
+			- I.e. Thomas Edison realized just a lightbulb was useless if no one had access so he devised a system of wires, meters and generators t connect people to a grid introducing large-scale electrical illumination 
+		- for technological advance often entails the resolution of tensions that are generated when one part of the technological system changes.
+- Much of what has just been said can be incorporated into a schematic definition of technology: a system created by humans that uses knowledge and organization to produce objects and techniques for the attainment of specific goals
+	- Much of what has just been said can be incorporated into a schematic definition of technology: a system created by humans that uses knowledge and organization to produce objects and techniques for the attainment of specific goals
+	- a new technology may in fact create its own needs
+### Technological Advance and the Image of Progress
