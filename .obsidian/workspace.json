@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "faefb2edfd9280e6",
+    "id": "a01a7ace3a794ca9",
     "type": "split",
     "children": [
       {
-        "id": "de06a45ea110e534",
+        "id": "b1d97ed55832a81c",
         "type": "tabs",
         "children": [
           {
-            "id": "e51cffc85b68d176",
+            "id": "613cf3df62b686a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indi People in Tech/Example.md",
+                "file": "Sustainable Communities Notes/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68148ca6216c4b69",
+    "id": "b085dda819a1d391",
     "type": "split",
     "children": [
       {
-        "id": "ed13c310214ad33e",
+        "id": "fb6793f12c61164c",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1b70a5aa241af2",
+            "id": "dfae18de04e8c2f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "1be8cbcb3527c2b6",
+            "id": "7ea84bbafc852c9a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b1aeccbaa143ab3c",
+            "id": "f137337fc7e7e3a6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "b4d3f85957af87bf",
+    "id": "df8e21efc664b250",
     "type": "split",
     "children": [
       {
-        "id": "03fa5f1607c20af3",
+        "id": "02dbe58171de9064",
         "type": "tabs",
         "children": [
           {
-            "id": "d235ac7f3c3ac8a7",
+            "id": "2b9af09565cdfbbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indi People in Tech/Example.md",
+                "file": "Sustainable Communities Notes/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "dae73d6db78d0050",
+            "id": "5634b909d338b7c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indi People in Tech/Example.md",
+                "file": "Sustainable Communities Notes/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32c6fffc613bdc59",
+            "id": "57f4015f8b8c926a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "cd0ef5d834ed8e58",
+            "id": "b1c82cf9d4672ea5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indi People in Tech/Example.md"
+                "file": "Sustainable Communities Notes/Lecture 1.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e51cffc85b68d176",
+  "active": "613cf3df62b686a3",
   "lastOpenFiles": [
-    "Sustainable Communities Notes/Class 1.md",
-    "Indi People in Tech/Example.md",
-    "Indi People in Tech/Untitled.md",
+    "Pasted image 20230914220447.png",
+    "Pasted image 20230914220446.png",
+    "Untitled.md",
+    "Sustainable Communities Notes/Lecture 1.md",
+    "Indi People in Tech Notes/Example.md",
+    "Indi People in Tech Notes/Untitled.md",
     "The_Nature_of_Technology_-Volti_ch._1.md",
-    "Sustainable Communities Notes",
-    "Indi People in Tech",
-    "README.md"
+    "sus/Untitled"
   ]
 }
