@@ -1,7 +1,7 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
+    "user": "Aleks4920",
+    "repo": "ObsidianNotes",
     "branch": "main",
     "automaticallyMergePR": true,
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
@@ -14,8 +14,8 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 60
+    "verifiedRepo": true,
+    "rateLimit": 4998
   },
   "upload": {
     "behavior": "fixed",
@@ -48,7 +48,7 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
       "wiki": false,
       "slugify": false
@@ -64,8 +64,8 @@
   },
   "plugin": {
     "shareKey": "share",
-    "fileMenu": false,
-    "editorMenu": false,
+    "fileMenu": true,
+    "editorMenu": true,
     "excludedFolder": [],
     "copyLink": {
       "enable": false,
@@ -74,7 +74,11 @@
       "addCmd": false
     },
     "noticeError": false,
-    "displayModalRepoEditing": false,
-    "migrated": true
+    "displayModalRepoEditing": true,
+    "migrated": true,
+    "shareAll": {
+      "enable": false,
+      "excludedFileName": "DRAFT"
+    }
   }
 }
