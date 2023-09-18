@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec1a9af144d28975",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,6 +181,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7398f890a24c945",
+  "active": "ec1a9af144d28975",
   "lastOpenFiles": [
     "Images/Pasted image 20230915140230.png",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
