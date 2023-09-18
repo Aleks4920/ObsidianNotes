@@ -47,9 +47,10 @@
             "id": "ec1a9af144d28975",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "diff-view",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "staged": true
               }
             }
           }
@@ -120,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Indi People in Tech Notes/Chapter 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,6 +190,9 @@
   },
   "active": "ec1a9af144d28975",
   "lastOpenFiles": [
+    "Sustainable Communities Notes/Lecture 3.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20230915191813.png",
     "Images/Pasted image 20230915140230.png",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
     "Sustainable Communities Notes/Lecture 2.md",
@@ -200,7 +200,6 @@
     "Indi People in Tech Notes/Chapter 1.md",
     "Images/Pasted image 20230914232537.png",
     "Images",
-    "conflict-files-obsidian-git.md",
     "New Text Document.txt",
     "Images/Pasted image 20230914220447.png",
     "Images/Pasted image 20230914220447.png",
