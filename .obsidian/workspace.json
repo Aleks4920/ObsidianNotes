@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2add159e5a724fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec1a9af144d28975",
+  "active": "c2add159e5a724fd",
   "lastOpenFiles": [
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
