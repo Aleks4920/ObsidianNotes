@@ -69,9 +69,11 @@ interpretation, and serendipity are central to both endeavors
 5. Why might the early history of the laser be considered an example of an “invention looking for an application” (or a “technology in search of a problem”)?  
 	The Laser was invented due to separate research being conducted leading them to discover the technology used to create lasers without any application, until it spawned an entire field of science along with many inventions. 
 6. How does Langdon Winner explain the success of science as a philosophy of inquiry? Why, according to Winner, has “social science... never fully established its credentials in the halls of science”?  
+	The success of science comes from its ability to actually demonstrate  results, The reason while social science never was truly established as a science is because it lacks producing any true results and is stuck only producing an intelligible, systematic, aesthetically pleasing picture of reality like all of other philosophies. 
+7. How did aerodynamics research in the 1930’s create an impetus for radical changes in aircraft power plants?  
+	There new discoveries into aircrafts lead them to find aircrafts that were far more capable then the previous propeller driven ones. Thus an impetus for the development of these new jet engi
+8. How has a rational approach been evident in the development of both science and technology? How might it  
 	
-1. How did aerodynamics research in the 1930’s create an impetus for radical changes in aircraft power plants?  
-2. How has a rational approach been evident in the development of both science and technology? How might it  
 be argued that the development of both science and technology isn’t always a strictly rational process?  
 9. Under what conditions is the term “techno-science” especially appropriate? Why is the line between science  
 and technology so blurred in these conditions?  
@@ -139,3 +141,17 @@ Upon completion of this unit of study, you should be able to address the followi
 	- At first the laser was the classic example of an invention looking for an application. But in succeeding years, the laser became the basis for a host of technologies ranging from scanners used at checkout counters to devices used for the surgical rejoining of detached retinas.
 	- In short, the development of one technology (radar) gave rise to scientific advance (the determination of molecular structures through microwave spectroscopy) and at the same time provided a scientific foundation for a entirely new technology (the laser).
 ## Indirect Effects of Technology on Scientific Advance
+- Technology’s role in stimulating scientific advance does not end with the provision of data, problems, and research opportunities. Technological development also plays a vital role in scientific advance by supplying devices and instruments that are essential for scientific inquiry
+- this faith in the practical consequences of scientific research has given science the immense prestige and legitimacy that it enjoys today. Many areas of scientific inquiry have become increasingly expensive propositions.
+- Financial support, however important it is to the maintenance of scientific inquiry, is only part of the picture. The willingness of government agencies to grant money for scientific research and of citizens to have their taxes used in this manner is indicative of a widespread belief in the legitimacy of scientific research.
+- This legitimacy is in large measure the product of the presumed ability of science to ultimately produce practical results. These ascribed powers of science have been analyzed by Langdon Winner:
+	- The ultimate success of science must be accounted to its fulfillment of Baconian ambitions—the delivery of power. Other modes of knowing have been able to give an intelligible, systematic, aesthetically pleasing picture of reality
+	- But in the West at least, the test is not so much what do you know? or how elegant is your interpretation of worldly phenomena? but rather, what can you actually do? This is the conclusive factor, the reason that, for instance, social science has never fully established its credentials in the halls of science.
+- This expected ability of science to “deliver the goods” is somewhat paradoxical, for science as a system unto itself responds rather poorly to economic needs.
+- Scientists typically create knowledge for other scientists. Their efforts are focused on the testing of theories and the solution of problems
+- The transfer of knowledge from science to technology can be a subtle process, with scientific research motivating technological change by pointing out unseen problems and at the same time suggesting new opportunities.
+	- This happened in the 1930s when the evolving science of aerodynamics showed how the behavior of aircraft changed dramatically at high speeds.
+	- This research clearly indicated that conventional propeller-driven airplanes would encounter an insurmountable velocity barrier as they approached the speed of sound. At the same time, aerodynamic research indicated that proper streamlining could greatly increase the speed at which airplanes could fly, provided they had a different method of propulsion.
+## The commonalities of Science and Technology
+- More generally, science and technology have been nourished by a supportive culture at least since the days of the early Industrial Revolution. Although science provided few direct inputs into early industrialization, the values and attitudes of engineers and mechanics had much in common with those of scientists. As Peter Mathias has described this era
+- 
