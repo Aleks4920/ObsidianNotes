@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1292b364a40b4f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613cf3df62b686a3",
+  "active": "c1292b364a40b4f8",
   "lastOpenFiles": [
     "Images/Pasted image 20230915191813.png",
     "Sustainable Communities Notes/Lecture 2.md",
