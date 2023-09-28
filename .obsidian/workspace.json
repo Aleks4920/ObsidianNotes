@@ -59,9 +59,11 @@
             "id": "c2add159e5a724fd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -205,15 +207,15 @@
   },
   "active": "c2add159e5a724fd",
   "lastOpenFiles": [
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
-    "Indi People in Tech Notes/Chapter 1.md",
+    "Sustainable Communities Notes/Lecture 2.md",
     "Sustainable Communities Notes/Lecture 3.md",
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
+    "Sustainable Communities Notes/Lecture 1.md",
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
+    "Indi People in Tech Notes/Chapter 1.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230915191813.png",
     "Images/Pasted image 20230915140230.png",
-    "Sustainable Communities Notes/Lecture 2.md",
-    "Sustainable Communities Notes/Lecture 1.md",
     "Images/Pasted image 20230914232537.png",
     "Images",
     "New Text Document.txt",
