@@ -71,7 +71,7 @@ interpretation, and serendipity are central to both endeavors
 6. How does Langdon Winner explain the success of science as a philosophy of inquiry? Why, according to Winner, has “social science... never fully established its credentials in the halls of science”?  
 	The success of science comes from its ability to actually demonstrate  results, The reason while social science never was truly established as a science is because it lacks producing any true results and is stuck only producing an intelligible, systematic, aesthetically pleasing picture of reality like all of other philosophies. 
 7. How did aerodynamics research in the 1930’s create an impetus for radical changes in aircraft power plants?  
-	There new discoveries into aircrafts lead them to find aircrafts that were far more capable then the previous propeller driven ones. Thus an impetus for the development of these new jet engi
+	There new discoveries into aircrafts lead them to find aircrafts that were far more capable then the previous propeller driven ones. Thus an impetus for the development of these new jet engine
 8. How has a rational approach been evident in the development of both science and technology? How might it  
 	
 be argued that the development of both science and technology isn’t always a strictly rational process?  
@@ -154,4 +154,7 @@ Upon completion of this unit of study, you should be able to address the followi
 	- This research clearly indicated that conventional propeller-driven airplanes would encounter an insurmountable velocity barrier as they approached the speed of sound. At the same time, aerodynamic research indicated that proper streamlining could greatly increase the speed at which airplanes could fly, provided they had a different method of propulsion.
 ## The commonalities of Science and Technology
 - More generally, science and technology have been nourished by a supportive culture at least since the days of the early Industrial Revolution. Although science provided few direct inputs into early industrialization, the values and attitudes of engineers and mechanics had much in common with those of scientists. As Peter Mathias has described this era
-- 
+- Some of the basic elements of this mode of inquiry are described by Robert Pirsig in Zen and the Art of Motorcycle Maintenance, where he explains how even a clearly technological task like determining why a motorcycle won’t start is addressed through the use of procedures that have much in common with scientific inquiry.
+- Of course, one shouldn’t take this analysis too far. Although both science and technology make heavy use of rational modes of thought, neither can be properly characterized as the embodiment of rationality
+	- Scientific theories must be logically consistent and rationally articulated, but their ultimate source is human creativity and imagination—qualities often at a considerable distance from rational thought processes. At the other end of the scientific enterprise, the testing of these theories, there are no perfectly rational means of determining the criteria through which theories can be validated or disproved.
+	- In similar fashion, a great deal of technological advance is also the product of nonrational thought. And, as was noted earlier, the benefit or harm of a particular technology cannot always be adjudged according to criteria based on rationally determined principles; a great deal hinges on values and ethical standards that are derived through other means.
