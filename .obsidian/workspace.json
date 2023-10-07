@@ -107,7 +107,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -248,10 +248,10 @@
   },
   "active": "3aea18956a3ec320",
   "lastOpenFiles": [
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
-    "Indi People in Tech Notes/Chapter 1.md",
     "Sustainable Communities Notes/Lecture 1.md",
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
+    "Indi People in Tech Notes/Chapter 1.md",
     "Sustainable Communities Notes/Lecture 2.md",
     "Sustainable Communities Notes/Lecture 3.md",
     "conflict-files-obsidian-git.md",
