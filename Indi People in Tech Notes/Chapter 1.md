@@ -1,4 +1,5 @@
 ## **Learning Objectives**
+[[SOCI-2755-FDE]]
 
 Upon completion of this unit of study, you should be able to address the following:
 
@@ -24,7 +25,7 @@ Upon completion of this unit of study, you should be able to address the followi
 - technologies have historically been invented to help us do things we otherwise couldn’t accomplish, thereby making up for our lack of other traits; as a species, we’re not particularly strong, or fast, and we can’t fly, or breathe under water, but we can use our imagination and create technology
 - our ability to create and use technology sets us apart from non-humans; in particular, our ability to engage in abstract thought (imagination, creativity, and abstraction have allowed us to create technologies)
 - our reliance on technology dates back 100’s of thousands of years to the early period of simple tool technologies (tools made of stone, bone and wood… knives, scrapers, arrow heads, lodge pools, etc.)
-- As Marshall McLuhan said: “First we shape our technologies, and then they shape us,” …this reflects the _reciprocal relationship_ between our technologies and our social organization/behaviours
+- As Marshall McLuhan said: “First we shape our technologies, and then they shape us,” …this reflects the _reciprocal relationship_ between our technologies and our social organization/behaviors
 
 - technologies have made the survival of the human race possible
 
