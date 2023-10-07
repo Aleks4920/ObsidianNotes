@@ -11,8 +11,12 @@
             "id": "05b8d441fc41dbbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Indi People in Tech Notes/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Indi People in Tech Notes/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Indi People in Tech Notes/Chapter 1.md"
+              }
             }
           },
           {
@@ -150,13 +158,13 @@
   },
   "active": "05b8d441fc41dbbb",
   "lastOpenFiles": [
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
+    "Indi People in Tech Notes/Winners and Losers -Volti ch. 2.md",
     "Sustainable Communities Notes/Lecture 3.md",
     "Sustainable Communities Notes/Lecture 2.md",
     "conflict-files-obsidian-git.md",
-    "Indi People in Tech Notes/Winners and Losers -Volti ch. 2.md",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
     "Sustainable Communities Notes/Lecture 1.md",
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
     "Indi People in Tech Notes/Chapter 1.md",
     "Images/Pasted image 20230915191813.png",
     "Images/Pasted image 20230915140230.png",
