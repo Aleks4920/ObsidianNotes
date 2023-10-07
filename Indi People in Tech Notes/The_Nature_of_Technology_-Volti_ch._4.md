@@ -7,7 +7,7 @@ principles; e.g., the steam engine
 The Historical Separation of Science and Technology  
  Throughout history most technologies have been developed with little scientific input; or, put  
 differently, there has been an historical disconnect between technology and science... they have been  
-distinctly different endeavours  
+distinctly different endeavors  
  In Ancient Greece many technological achievements were made without a full scientific understanding  
 of how they worked, yet Greece’s scientific legacy (in astronomy, optics, acoustics and mathematics) is  
 more significant than its technological legacy  
