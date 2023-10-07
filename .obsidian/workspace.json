@@ -23,14 +23,110 @@
             "id": "c1292b364a40b4f8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc00c5933fda57c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainable Communities Notes/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a6c5b0624f0fcd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94c7d261aefc6029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a87186e4d9d81e1",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.4.13"
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "57ec945675441913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainable Communities Notes/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7267057939089c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aea18956a3ec320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4c788034b8516b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -96,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sustainable Communities Notes/Lecture 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sustainable Communities Notes/Lecture 3.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -167,20 +263,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1292b364a40b4f8",
+  "active": "e4c788034b8516b1",
   "lastOpenFiles": [
-    "Images/Pasted image 20230915191813.png",
-    "Sustainable Communities Notes/Lecture 2.md",
-    "Sustainable Communities Notes/Lecture 3.md",
-    "Sustainable Communities Notes/Lecture 1.md",
     "conflict-files-obsidian-git.md",
+    "Sustainable Communities Notes/Lecture 3.md",
+    "Sustainable Communities Notes/Lecture 2.md",
+    "Sustainable Communities Notes/Lecture 1.md",
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
+    "Images/Pasted image 20230915191813.png",
     "Images/Pasted image 20230915140230.png",
     "Indi People in Tech Notes/Chapter 1.md",
     "Images/Pasted image 20230914232537.png",
     "Images/Pasted image 20230914220447.png",
     "Images",
     "Pasted image 20230914232537.png",
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
     "Example.md",
     "Lecture 1.md",
     "Indi People in Tech Notes/Example.md",

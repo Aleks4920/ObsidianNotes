@@ -7,7 +7,7 @@ Expenditures - contracting, partnerships, monitoring etc.
 voluntary initiatives - non-profits, volunteer work
 regulation - laws, licenses, permits, etc.
 
-### Sustainability Indicators
+###  Sustainability Indicators
 looking at the diverse aspects of a sustainable community 
 
 

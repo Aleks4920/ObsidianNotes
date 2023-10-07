@@ -107,10 +107,10 @@ Upon completion of this unit of study, you should be able to address the followi
 10. Give an example of a technology where its contribution to overall progress is ambiguous at best. 
 	Does maintaining a “life” of this sort justify expenditures that otherwise might be used for expanded prenatal care or other preventative measures? Given all of the value judgments, ambiguities, and complexities surrounding the word “progress,” its use is avoided here unless its meaning is clearly defined.
 11. What, in a technical sense, is meant by “feedback”? Note a particular technology that makes use of the feedback principle. Give an example of how “feedback” has entered the social realm. 
-
-12. What is meant by _rationality_? How is it connected to the development of technology? How does it relate to the way Max Weber used the word “disenchantment”? 
-
-13. What is meant by _technological determinism_? What is meant by _social constructivism_? Why is neither fully adequate to the task of describing the nature of technology?
+	When a steam engine begins to rotate too rapidly, a feedback device such as a flyball governor closes the valve that admits the steam, thereby bringing the engine back into its proper operating range. When it slows down, the reverse happens, and the governor opens the valve to admit more steam.
+1. What is meant by _rationality_? How is it connected to the development of technology? How does it relate to the way Max Weber used the word “disenchantment”? 
+	
+1. What is meant by _technological determinism_? What is meant by _social constructivism_? Why is neither fully adequate to the task of describing the nature of technology?
 
 ## Chapter Notes
 
@@ -145,3 +145,25 @@ Upon completion of this unit of study, you should be able to address the followi
 - The dynamic and cumulative nature of technological change sets it apart from many other human endeavors. Ignoring for the moment the social consequences of technology, the process of technological change is usually one of continuous improvement in the internal workings of a particular technology: as they evolve, engines develop more power and are more efficient, integrated electronic circuits pack more components on a single chip, aircraft fly higher and faster.
 - Does maintaining a “life” of this sort justify expenditures that otherwise might be used for expanded prenatal care or other preventative measures? Given all of the value judgments, ambiguities, and complexities surrounding the word “progress,” its use is avoided here unless its meaning is clearly defined.
 ### Technology as a Metaphor 
+- feedback, which the great twentieth-century mathematician Norbert Wiener defined as “a method of controlling a system by reinserting in it the results of its past performance. 
+- When a steam engine begins to rotate too rapidly, a feedback device such as a flyball governor closes the valve that admits the steam, thereby bringing the engine back into its proper operating range. When it slows down, the reverse happens, and the governor opens the valve to admit more steam. 
+- During the late eighteenth century the feedback principle offered a suggestive metaphor for the workings of the economic system: instead of being guided by a centralized authority, an economy might best be organized through the operation of a self-regulating market, with the actions of independent buyers and sellers providing the feedback.
+### Technology and Rationality 
+- The term rationality is used in the sense of problem solving through a lens of logical connections, and a systematic empirical observations that you know or have strong evidence it will produce a given result.
+- Technological development is more than the random accumulation of tools, techniques, and organizational forms. Underlying the process is a set of attitudes and orientations that are collectively described as “rational.”
+- What makes a technologically progressive society different from others is that its methods of problem solving are oriented toward an objective scrutiny of the problem at hand, coupled with a systematic, empirically based examination of possible solutions and a logical selection of the most appropriate ones.
+	- the belief that solutions are possible and that constant changes are necessary in order to realize them.
+- There is nothing in the rational approach to the world that prevents the use of logically and empirically derived means in the service of goals that are neither rational nor ethically justifiable
+- Even when rationality is not used for manifestly immoral purposes, it can still leave a dubious spiritual legacy.
+- A rational approach to things is often accompanied by a reluctance to admit there are any forces incapable of withstanding logical and empirical scrutiny. As the great German sociologist Max Weber put it, the world defined by rational thought processes had become “disenchanted,” for it was bereft of the gods, genies, and spiritual forces that people not imbued with the spirit of rationality used to explain their world.
+````
+With the progress of science and technology, man has stopped believing in magic powers, in spirits and demons; he has lost his sense of prophecy and, above all, his sense of the sacred. Reality has become dreary, flat and utilitarian, leaving a great void in the souls of men which they seek to fill by furious activity and through various devices and substitutes
+````
+- Guided by a rational outlook, scientific inquiry and technological application are usually based on the abstraction or isolation of the part of the natural world that is being studied or manipulated.
+- This isn’t always a good thing, for it can produce a sharp separation between the individual and the rest of the world. The scientist or technologist stands apart from the system that is being studied and manipulated, resulting in a kind of tunnel vision that all too often ignores the larger consequences of gaining and applying knowledge.
+- It also may be argued that a logical, detached, and dispassionate approach to the world is suffused with a “masculine” approach to understanding and interacting with the world
+### Technological Determinism
+- The belief that technology acts as an independent force in our life, unaffected by social forces, is known as “technological determinism,” and if it is true, we have become the servant of technology instead of its master.
+- Social Constructionism - argue that technology does not determine human action, but that rather, human action shapes technology
+- technological determinism - simply put, is **the idea that technology has important effects on our lives**. This idea figures prominently in the popular imagination and political rhetoric, for example in the idea that the Internet is revolutionizing economy and society.
+	- Furthered thinking, that technolegy is bound to continue to get better without our
