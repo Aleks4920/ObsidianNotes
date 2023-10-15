@@ -22,4 +22,6 @@
 		- Resadential area with no or limited food access
 	- Food Swamp
 		- an area with too much unhealthy food options
+- to end food insecurity we have to focus on ending the larger picture of povrity
+- Food is usually a systemic issue (social and ecological)
 - 
