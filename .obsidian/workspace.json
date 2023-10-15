@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +159,7 @@
   },
   "active": "05b8d441fc41dbbb",
   "lastOpenFiles": [
+    "Images/Pasted image 20231015190013.png",
     "Indi People in Tech Notes/Chapter 1.md",
     "Sustainable Communities Notes/Lecture 4 Food.md",
     "Sustainable Communities Notes/Lecture 6 Waste.md",
