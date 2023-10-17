@@ -11,8 +11,12 @@
             "id": "045a60c265c167c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Assembly/Assembly Language 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assembly/Assembly Language 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assembly/Assembly Language 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assembly/Assembly Language 4.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +158,11 @@
   },
   "active": "045a60c265c167c9",
   "lastOpenFiles": [
-    "Sustainable Communities Notes/Lecture 4 Food.md",
-    "Assembly/Midterm Exam Review.md",
     "Assembly/Assembly Language 1.md",
+    "Assembly/Assembly Language 4.md",
+    "Assembly/Midterm Exam Review.md",
     "Assembly/Assembly Language.md",
+    "Sustainable Communities Notes/Lecture 4 Food.md",
     "SOCI-2755-FDE.md",
     "Pasted image 20230920222547.png.md",
     "Pasted image 20230920222207.png.md",

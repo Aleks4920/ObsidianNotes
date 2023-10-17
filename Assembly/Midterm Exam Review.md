@@ -1,3 +1,5 @@
+[[Assembly Language 1]]
+[[Assembly Language 4]]
 #### Binary to decimal 
 - dec = 2^n-1 + 2^n-2 + ... + 2^1 + 2^0
 	- e.g 00001001 = 9
