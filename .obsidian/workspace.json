@@ -38,6 +38,28 @@
             }
           },
           {
+            "id": "f62b6b7833b43ca7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "SOCI-2755-FDE.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "b0943ec62f397896",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
+          },
+          {
             "id": "4b7305783dfd7ded",
             "type": "leaf",
             "state": {
@@ -61,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly/Assembly Language 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assembly/Assembly Language 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assembly/Assembly Language 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,10 +217,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5868b45d49668c30",
+  "active": "b0943ec62f397896",
   "lastOpenFiles": [
-    "Assembly/Midterm Exam Review.md",
+    "conflict-files-obsidian-git.md",
+    "SOCI-2755-FDE.md",
     "Assembly/Assembly Language 1.md",
+    "Assembly/Midterm Exam Review.md",
     "Images/Pasted image 20231016132317.png",
     "Images/Pasted image 20231016132244.png",
     "Images/Pasted image 20231016132203.png",
@@ -217,14 +238,12 @@
     "Assembly/Assembly Language.md",
     "Images/Pasted image 20230922131520.png",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
-    "conflict-files-obsidian-git.md",
     "Sustainable Communities Notes/Lecture 4 Food.md",
     "Pasted image 20230920222547.png.md",
     "Images/Computer Architecture.md",
     "Sustainable Communities Notes/Lecture 6 Waste.md",
     "Assembly",
     "Indi People in Tech Notes/Winners and Losers -Volti ch. 2.md",
-    "SOCI-2755-FDE.md",
     "Sustainable Communities Notes/Lecture 3.md",
     "Sustainable Communities Notes/Lecture 2.md",
     "Sustainable Communities Notes/Lecture 1.md",
