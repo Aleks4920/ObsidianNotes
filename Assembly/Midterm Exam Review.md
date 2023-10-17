@@ -1,4 +1,5 @@
-#### Binary to decimal 
+# Chapter 1 - 2
+## Binary to decimal 
 - dec = 2^n-1 + 2^n-2 + ... + 2^1 + 2^0
 	- e.g 00001001 = 9
 		- (1 x 2^3) + (1 x 2^0) = 9
@@ -160,7 +161,7 @@ y Subtraction
 	- Carry from bit 3 to bit 4
 - Parity
 	- Sum of 1 bits is an even number
-## Basics of Assembly
+## Basics of Assembly - Chapter 3
 
 ## Mnemonics and Operands
 • Instruction Mnemonics  
@@ -259,3 +260,144 @@ I.e. ListSize = ($ - list) / 2 for Word
 I.e. ListSize = ($ - list) / 4 for DoubleWord
 etc...
 
+# # Data Transfers, Addressing,  and Arithmetic -  Chapter 4 part 1,2,3
+
+## Operand Types
+• Immediate – a constant integer (8, 16, or 32 bits)  
+– value is encoded within the instruction  
+• Register – the name of a register  
+– register name is converted to a number and encoded  
+within the instruction  
+• Memory – reference to a location in memory  
+– memory address is encoded within the instruction, or a  
+register holds the address of a memory location
+
+## Instruction Operand Types
+![[Pasted image 20231016131731.png]]
+
+## Direct Memory Operands
+• A direct memory operand is a named reference to  
+storage in memory  
+• The named reference (label) is automatically  
+dereferenced by the assembler
+![[Pasted image 20231016131906.png]]
+
+## MOV Instruction
+• Move from source to destination. Syntax:  
+MOV destination,source  
+• No more than one memory operand permitted  
+• CS, EIP, and IP cannot be the destination  
+• No immediate to segment moves
+![[Pasted image 20231016132203.png]]
+## Add and Sub Substractions
+• ADD destination, source  
+– Logic: destination  destination + source  
+• SUB destination, source  
+– Logic: destination  destination – source  
+• Same operand rules as for the MOV instruction
+
+### Examples
+```
+.data  
+var1 DWORD 10000h  
+var2 DWORD 20000h  
+.code ; ---EAX---  
+mov eax,var1 ; 00010000h  
+add eax,var2 ; 00030000h  
+add ax,0FFFFh ; 0003FFFFh  
+add eax,1 ; 00040000h  
+sub ax,1 ; 0004FFFFh
+```
+
+## Flags Affected by Arithmetic
+• The ALU has a number of status flags that reflect  the outcome of arithmetic (and bitwise) operations  
+	– based on the contents of the destination operand  
+• Essential flags:  
+	– Zero flag – set when destination equals zero  
+	– Sign flag – set when destination is negative  
+	– Carry flag – set when unsigned value is out of range  
+	– Overflow flag – set when signed value is out of range  
+• The MOV instruction never affects the flags.
+
+## Concept Map
+![[Pasted image 20231016174533.png]]
+
+## Zero Flag
+The Zero flag is set when the result of an operation  
+produces zero in the destination operand.
+
+• A flag is set when it equals 1.  
+• A flag is clear when it equals 0.  
+mov cx,1  
+sub cx,1 ; CX = 0, ZF = 1  
+mov ax,0FFFFh  
+inc ax ; AX = 0, ZF = 1  
+inc ax ; AX = 1, ZF = 0
+
+## Sign Flag (SF)
+The Sign flag is set when the destination operand is  
+negative. The flag is clear when the destination is  
+positive.
+
+mov al,0  
+sub al,1 ; AL = 11111111b, SF = 1  
+add al,2 ; AL = 00000001b, SF = 0  
+The sign flag is a copy of the destination's highest  
+bit:  
+mov cx,0  
+sub cx,1 ; CX = -1, SF = 1  
+add cx,2 ; CX = 1, SF = 
+
+## Signed and Unsigned Integers  
+A Hardware Viewpoint
+• All CPU instructions operate exactly the same on  
+signed and unsigned integers  
+• The CPU cannot distinguish between signed and  
+unsigned integers  
+• YOU, the programmer, are solely responsible for  
+using the correct data type with each instruction
+
+## Overflow and Carry Flags A Hardware  Viewpoint
+MSB = Most Significant Bit (high-order bit)  
+XOR = eXclusive-OR operation  
+NEG = Negate (same as SUB 0,operand )  
+• How the ADD instruction affects OF and CF:  
+– CF = (carry out of the MSB)  
+– OF = CF XOR MSB  
+• How the SUB instruction affects OF and CF:  
+– CF = INVERT (carry out of the MSB)  
+– negate the source and add it to the destination  
+– OF = CF XOR MSB  
+
+## Carry Flag (CF)
+mov al,0FFh  
+add al,1 ; CF = 1, AL = 00  
+; Try to go below zero:  
+mov al,0  
+sub al,1 ; CF = 1, AL = FF  
+The Carry flag is set when the result of an operation  
+generates an unsigned value that is out of range  
+(too big or too small for the destination operand).
+
+## Overflow Flag (OF)
+The Overflow flag is set when the signed result of  
+an operation is invalid or out of range.
+```
+; Example 1  
+mov al,+127  
+add al,1 ; OF = 1, AL = ??  
+; Example 2  
+mov al,7Fh ; OF = 1, AL = 80h  
+add al,1
+```
+The two examples are identical at the binary level because 7Fh  
+equals +127. To determine the value of the destination operand,  
+it is often easier to calculate in hexadecimal.
+
+## A Rule of Thumb
+When adding two integers, remember that the  
+Overflow flag is only set when . . .  
+– Two positive operands are added and their sum is  
+negative  
+– Two negative operands are added and their sum is  
+positive
