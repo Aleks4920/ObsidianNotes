@@ -28,9 +28,21 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "5f61d3d9b1dd7f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sustainable Communities Notes/Lecture 4 Food.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sustainable Communities Notes/Lecture 4 Food.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sustainable Communities Notes/Lecture 4 Food.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -153,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,16 +179,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7331212e913e007",
+  "active": "5f61d3d9b1dd7f23",
   "lastOpenFiles": [
-    "Images/Pasted image 20231015190013.png",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20230920222547.png.md",
+    "Pasted image 20230920222207.png.md",
+    "Images/maxresdefault.jpg",
+    "Images/mLTSa.jpg",
+    "Images/image.png",
+    "Images/facade_pattern_uml_diagram.jpg",
+    "Images/design-patterns-22-320.webp",
+    "Images/delegation-pattern.png",
+    "Images/adapter_design_pattern_in_java_example.png",
+    "Images/TeMye.png",
+    "Images/Pasted image 20230929150950.png",
+    "Images/Pasted image 20230929150352.png",
+    "Images/Computer Architecture.md",
+    "Assembly/Midterm Exam Review.md",
+    "Assembly/Assembly Language.md",
+    "Assembly/Assembly Language 1.md",
+    "Assembly",
     "Indi People in Tech Notes/Chapter 1.md",
     "Sustainable Communities Notes/Lecture 4 Food.md",
     "Sustainable Communities Notes/Lecture 6 Waste.md",
-    "Images/Pasted image 20231015112945.png",
-    "Images/Pasted image 20231015112053.png",
-    "Images/Pasted image 20231015111616.png",
-    "Images/Pasted image 20231015111052.png",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
     "Sustainable Communities Notes/Lecture 3.md",
     "Sustainable Communities Notes/Lecture 2.md",
@@ -185,18 +209,11 @@
     "Indi People in Tech Notes/Winners and Losers -Volti ch. 2.md",
     "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
     "SOCI-2755-FDE.md",
-    "conflict-files-obsidian-git.md",
-    "Images/Pasted image 20230915191813.png",
-    "Images/Pasted image 20230915140230.png",
-    "Images/Pasted image 20230914232537.png",
-    "Images/Pasted image 20230914220447.png",
     "Images",
-    "Pasted image 20230914232537.png",
     "Example.md",
     "Lecture 1.md",
     "Indi People in Tech Notes/Example.md",
     "Indi People in Tech Notes/Untitled.md",
-    "Pasted image 20230914220447.png",
     "Untitled.md",
     "sus/Untitled"
   ]
