@@ -11,12 +11,8 @@
             "id": "045a60c265c167c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assembly/Assembly Language 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly/Assembly Language 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assembly/Assembly Language 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assembly/Assembly Language 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,9 +150,9 @@
   },
   "active": "045a60c265c167c9",
   "lastOpenFiles": [
-    "Assembly/Assembly Language 1.md",
-    "Assembly/Assembly Language 4.md",
     "Assembly/Midterm Exam Review.md",
+    "Assembly/Assembly Language 4.md",
+    "Assembly/Assembly Language 1.md",
     "Assembly/Assembly Language.md",
     "Sustainable Communities Notes/Lecture 4 Food.md",
     "SOCI-2755-FDE.md",
