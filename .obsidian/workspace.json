@@ -59,11 +59,9 @@
             "id": "c2add159e5a724fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Assembly/Assembly Language.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20230701180145.png"
               }
             }
           }
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly/Assembly Language.md",
+                "file": "Images/Pasted image 20230701180145.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assembly/Assembly Language.md",
+                "file": "Images/Pasted image 20230701180145.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assembly/Assembly Language.md"
+                "file": "Images/Pasted image 20230701180145.png"
               }
             }
           },
@@ -207,6 +205,10 @@
   },
   "active": "c2add159e5a724fd",
   "lastOpenFiles": [
+    "Images/Pasted image 20230702151555.png",
+    "Images/Pasted image 20230701180145.png",
+    "Images/Pasted image 20231015111616.png",
+    "Assembly/Assembly Language.md",
     "Pasted image 20230920222547.png.md",
     "Images/Untitled.png",
     "Images/Untitled 1.png",
@@ -216,10 +218,7 @@
     "Images/Pasted image 20230929150043.png",
     "Images/Pasted image 20230929145056.png",
     "Images/Pasted image 20230927100432.png",
-    "Images/Pasted image 20230927100412.png",
-    "Images/Pasted image 20230922131520.png",
     "Images/Computer Architecture.md",
-    "Assembly/Assembly Language.md",
     "Pasted image 20230920222207.png.md",
     "Sustainable Communities Notes/Lecture 6 Waste.md",
     "Assembly",
