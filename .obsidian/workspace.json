@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7331212e913e007",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05b8d441fc41dbbb",
+  "active": "d7331212e913e007",
   "lastOpenFiles": [
     "Images/Pasted image 20231015190013.png",
     "Indi People in Tech Notes/Chapter 1.md",
