@@ -1,3 +1,4 @@
+#Basics
 # Virtual Machines
 - Programming Language analogy:  
 	- Each computer has a native machine language  
@@ -12,7 +13,9 @@
 		hardware
 ![[Pasted image 20230920222207.png]]
 # Data Representation 
+#Data
 ## Binary Numbers
+#Binary
 - 1 means true 0 means false
 - Left most digit is Most Significant Bit (MSB) right most bit is Least significant bit (LSB)
 - e.g. 1011001010011100
@@ -26,6 +29,7 @@
 - Starting from the left add each pair
 	- 1 over 1 results in a 0 with a carry of the 1 to the next number
 ## Hexadecimal
+#Hex
 ### Integer storage size
 - Byte holds 8 bits ranging from 0 to 255
 - Word holds 16 bits ranging from 0 to 65535
@@ -92,13 +96,16 @@ y Subtraction
 - When subtraction A - B convert B into two's complement
 
 ## Character Storage
+#char
 
 - Character Sets
 	- Standard ASCII (0-127)
 	- Extended ASCII (0 - 255)
 	- Unicode (0 - 65-535)
 # Boolean Operation
+#Bool
 ## Boolean Algebra 
+#Math
 - Expression created from NOT, AND, OR
 ![[Pasted image 20230920230848.png]]
 
@@ -146,6 +153,7 @@ y Subtraction
 ![[Pasted image 20230921094623.png]]
 
 ## Reading from Memory
+#Memory
 Multiple machine cycles are required when reading from memory, because it responds much more slowly then the CPU the steps are:
 	 1. Place the address of the value you want to read on the address bus.
 	 2. Assert ( changing the value of) the processors RD (read pin)
@@ -169,6 +177,7 @@ Multiple machine cycles are required when reading from memory, because it respon
 	- There is bits that hand expectations in programs that get flipped if they happen (i.e divide by zero)
 ![[Pasted image 20230921101012.png]]
 ## IA-32
+#IA-32
 ### Modes of Operation
 - Protected mode
 	- Native mode (windows, linux)
@@ -235,6 +244,8 @@ Multiple machine cycles are required when reading from memory, because it respon
 - Each program is assigned a memory partition 
 
 ### 64-Bit Processors
+#64bit
+
 - 64-Bit Operation Modes
 	- Compatibility Mode - can run existing 16-bit and 32-bit applications (Only supports 32-bit apps in this mode)
 	- 64-bit mode - Windows 64 uses this
@@ -251,6 +262,7 @@ Multiple machine cycles are required when reading from memory, because it respon
 ## Components of an IA-32 Microcomputer
 
 # Basic Elements of Assembly Language
+#Basics 
 # Integer Constants 
 • Optional leading + or – sign  
 • binary, decimal, hexadecimal, or octal digits  

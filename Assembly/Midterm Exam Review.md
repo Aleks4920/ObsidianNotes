@@ -1,9 +1,15 @@
+
 # Chapter 1 - 2
 ## Binary to decimal 
+[[Assembly Language 1]]
+[[Assembly Language 4]]
+#### Binary to decimal 
 - dec = 2^n-1 + 2^n-2 + ... + 2^1 + 2^0
 	- e.g 00001001 = 9
 		- (1 x 2^3) + (1 x 2^0) = 9
 ## Dec to Binary
+#Binary 
+#deci 
 ````
 1. Start with the decimal number you want to convert to binary.
 2. Divide the number by 2.
@@ -23,11 +29,13 @@ Let's take an example: Convert the decimal number 27 to binary.
 ````
 
 ### Binary To Hex
+#Binary #Hex 
 - Split the binary digit into sections of 4
 - E.g. 00101101010011110010100
 	- turns into 1 = 0001, 6 = 0110, A = 1010, 7 = 0111, 9 = 1001, 4 = 0100
 	- 16A794
 ### Hex to Dec
+#Hex #deci 
 - Dec = (D3 x 16^3) + (D2 x 16^2) + (D1 x 16^1) + (D0 x 16^0)
 	D represents digit
 - Hex 1245 equels (1 x 16^3) + (2 x 16^2) etc... or dec 4,660
@@ -50,6 +58,7 @@ A+B = 21/16 = 5 carry the 1 over then
 6 + 4 + 1 = 11/B
 
 ### Subtraction 
+#Math 
 Same thing except instead of adding 1 when theres to much take 1 from the next neighbor and add 16 to yours
 75
 47
@@ -61,6 +70,7 @@ Same thing except instead of adding 1 when theres to much take 1 from the next n
 7-1-4 = 2
 
 ## Signed Integers
+#Basics #int
 - The highest bit in indicates the sign. 1 = negative 0 = positive
 	- 11110110 negative
 	- 00001010 positive
@@ -81,12 +91,14 @@ y Subtraction
 - When subtraction A - B convert B into two's complement
 
 ## Character Storage
+#Memory 
 
 - Character Sets
 	- Standard ASCII (0-127)
 	- Extended ASCII (0 - 255)
 	- Unicode (0 - 65-535)
 # Boolean Operation
+#Bool 
 ## Boolean Algebra 
 - Expression created from NOT, AND, OR
 ![[Pasted image 20230920230848.png]]
@@ -133,6 +145,7 @@ y Subtraction
 	- This is all static where somewhere in your computer there is a register bank that calls all of the registers 
 ![[Pasted image 20230921102404.png]]
 ### Some Specialized Register Uses
+#Memory #Addressing 
 - General-Purpose 
 	- EAX - accumulator
 	- ECX - loop counter
@@ -161,7 +174,12 @@ y Subtraction
 	- Carry from bit 3 to bit 4
 - Parity
 	- Sum of 1 bits is an even number
+<<<<<<< HEAD
 ## Basics of Assembly - Chapter 3
+=======
+## Basics of Assembly
+#Basics 
+>>>>>>> origin/main
 
 ## Mnemonics and Operands
 • Instruction Mnemonics  
@@ -249,6 +267,7 @@ END main
 ````
 
 ## Calculating the Size of a Byte Array
+#Math 
 current location counter: $  
 – subtract address of list  
 – difference is the number of bytes  
