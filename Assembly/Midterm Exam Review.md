@@ -38,8 +38,8 @@ Let's take an example: Convert the decimal number 27 to binary.
 #Hex #deci 
 - Dec = (D3 x 16^3) + (D2 x 16^2) + (D1 x 16^1) + (D0 x 16^0)
 	D represents digit
-- Hex 1245 equels (1 x 16^3) + (2 x 16^2) etc... or dec 4,660
-- Hex 3BA4 equels (3 x 16^3) + (11 x 16^2) + (10 x 16^1) + (4 x 16^0), or Dec 15,268
+- Hex 1245 equals (1 x 16^3) + (2 x 16^2) etc... or dec 4,660
+- Hex 3BA4 equals (3 x 16^3) + (11 x 16^2) + (10 x 16^1) + (4 x 16^0), or Dec 15,268
 ### Dec to Hex
 | Division | Quotent | Remainder |
 | -------- | ------- | --------- |
@@ -59,7 +59,7 @@ A+B = 21/16 = 5 carry the 1 over then
 
 ### Subtraction 
 #Math 
-Same thing except instead of adding 1 when theres to much take 1 from the next neighbor and add 16 to yours
+Same thing except instead of adding 1 when there's to much take 1 from the next neighbor and add 16 to yours
 75
 47
 -
