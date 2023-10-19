@@ -58,19 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly/Assembly Language 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35f470b6e85e1c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md"
               }
             }
           },
@@ -238,13 +226,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f470b6e85e1c7d",
+  "active": "559d77566400397b",
   "lastOpenFiles": [
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
+    "Sustainable Communities Notes/Lecture 4 Food.md",
+    "Sustainable Communities Notes/Lecture 3.md",
+    "Sustainable Communities Notes/Lecture 6 Waste.md",
+    "Sustainable Communities Notes/Lecture 2.md",
+    "Indi People in Tech Notes/Winners and Losers -Volti ch. 2.md",
+    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
+    "Assembly/Midterm Exam Review.md",
     "Assembly/Assembly Language 4.md",
     "conflict-files-obsidian-git.md",
     "Assembly/Assembly Language 1.md",
     "SOCI-2755-FDE.md",
-    "Assembly/Midterm Exam Review.md",
     "Images/Pasted image 20231016132317.png",
     "Images/Pasted image 20231016132244.png",
     "Images/Pasted image 20231016132203.png",
@@ -259,17 +254,10 @@
     "Indi People in Tech Notes/Chapter 1.md",
     "Assembly/Assembly Language.md",
     "Images/Pasted image 20230922131520.png",
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._4.md",
-    "Sustainable Communities Notes/Lecture 4 Food.md",
     "Pasted image 20230920222547.png.md",
     "Images/Computer Architecture.md",
-    "Sustainable Communities Notes/Lecture 6 Waste.md",
     "Assembly",
-    "Indi People in Tech Notes/Winners and Losers -Volti ch. 2.md",
-    "Sustainable Communities Notes/Lecture 3.md",
-    "Sustainable Communities Notes/Lecture 2.md",
     "Sustainable Communities Notes/Lecture 1.md",
-    "Indi People in Tech Notes/The_Nature_of_Technology_-Volti_ch._1.md",
     "Images",
     "New Text Document.txt",
     "The_Nature_of_Technology_-Volti_ch._1.md",
